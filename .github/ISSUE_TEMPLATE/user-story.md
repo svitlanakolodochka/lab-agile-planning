@@ -16,7 +16,6 @@ assignees: ''
    
  ### Acceptance Criteria  
    
- ```gherkin```
  
  Given [some context]
  
